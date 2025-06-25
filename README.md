@@ -36,4 +36,5 @@ Key Insights Delivered:
   Monitored cancellation trends and guest satisfaction through average ratings
 
 Demo: https://github.com/SaniaNandi22/Hotel-Revenue-Dashboard/blob/main/Hotel%20revenue.pbit
-Snapshot: 
+
+Snapshot: https://github.com/SaniaNandi22/Hotel-Revenue-Dashboard/blob/main/Hotel%20Revenue%20Dashboard.png
